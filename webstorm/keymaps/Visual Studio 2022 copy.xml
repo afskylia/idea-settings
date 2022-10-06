@@ -1,0 +1,24 @@
+<keymap version="1" name="Visual Studio 2022 copy" parent="Visual Studio 2022">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="shift back_space" />
+  </action>
+  <action id="FileChooserList.LevelUp" />
+  <action id="Images.Thumbnails.UpFolder" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Rider.Plugins.FSharp.SendToFsi">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+</keymap>
